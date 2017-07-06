@@ -1,0 +1,1 @@
+clear haze partly_cloudy cloudy primary agriculture water cultivation habitation road slash_burn conventional_mine bare_ground artisinal_mine blooming selective_logging blow_down 
